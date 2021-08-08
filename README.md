@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi Welcome 👋
 <img align="right" alt="GIF" src="https://github.com/unique-pure/unique-puremaster/snail_linux.jpg" />
-😀 I'm pusuit, a software engineering student.
-🌱 I’m currently learning competitive programming for XCPC.
-💫 Foucs on algorithm.
+- 😀 I'm pusuit, a software engineering student.
+- 🌱 I’m currently learning competitive programming for XCPC.
+- 💫 Foucs on algorithm.
 # Contact me 📫
-  [unique.hzf.@gmail.com](unique.hzf@gmail.com)
-  [pursuit.blog.csdn.net](https://blog.csdn.net/hzf0701?spm=1001.2101.3001.5343)
+- [unique.hzf.@gmail.com](unique.hzf@gmail.com)
+- [pursuit.blog.csdn.net](https://blog.csdn.net/hzf0701?spm=1001.2101.3001.5343)
   
