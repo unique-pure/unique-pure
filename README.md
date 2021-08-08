@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning competitive programming to prepare for XCPC.
 - 💫 Foucs on algorithm.
 # Contact me 📫
-- 💬E-mail : [unique.hzf.@gmail.com](unique.hzf@gmail.com)
+- 💬E-mail : [unique.hzf.@gmail.com](https://unique.hzf@gmail.com)
 - 💬Blog : [pursuit.blog.csdn.net](https://blog.csdn.net/hzf0701?spm=1001.2101.3001.5343)
   
