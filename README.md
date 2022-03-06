@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 # Hi Welcome 👋
 - 😀 I'm pusuit, a software engineering student.
-- 🌱 I’m currently learning competitive programming to prepare for XCPC.
+- 🌱 I'm a retired acmer and think algorithms have souls.
 - 💫 Foucs on algorithm.
 # Contact me 📫
 - 💬E-mail : [unique.hzf.@gmail.com](https://unique.hzf@gmail.com)
-- 💬Blog : [pursuit.blog.csdn.net](https://blog.csdn.net/hzf0701?spm=1001.2101.3001.5343)
+- 💬csdn : [pursuit.blog.csdn.net](https://blog.csdn.net/hzf0701?spm=1001.2101.3001.5343)
+- 💬blogWebsite : [unique-pure.github.io](https://unique-pure.github.io)
   
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=unique-pure&show_icons=true&theme=radical) 
