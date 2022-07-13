@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=unique-pure&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-pure&theme=dark&layout=compact)
 
+<a href="https://github.com/unique-pure/login_register_system/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unique-pure&repo=login_register_system&theme=dark&card_height=50" />
+</a>
