@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi Welcome 👋
 - 😀 I'm pusuit, a software engineering student.
 - 🌱 I'm a retired acmer and think algorithms have souls.
-- 💫 Foucs on algorithm.
+- 💫 Focus on algorithms and development.
 # Contact me 📫
 - 💬E-mail : [unique.hzf.@gmail.com](https://unique.hzf@gmail.com)
 - 💬csdn : [pursuit.blog.csdn.net](https://blog.csdn.net/hzf0701?spm=1001.2101.3001.5343)
