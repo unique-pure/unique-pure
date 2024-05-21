@@ -23,6 +23,5 @@ Here are some ideas to get you started:
   
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=unique-pure&show_icons=true&theme=radical) <br/>
 
-<div>
+
 ![Snake animation](https://github.com/unique-pure/unique-pure/blob/output/github-contribution-grid-snake.svg)
-</div>
