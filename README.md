@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 💬blogWebsite : [unique-pure.github.io](https://unique-pure.github.io)
   
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=unique-pure&show_icons=true&theme=radical) <br/>
+
+![Snake animation](https://github.com/unique-pure/unique-pure/blob/output/github-contribution-grid-snake.svg)
